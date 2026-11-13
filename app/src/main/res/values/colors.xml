@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- 学号尾号为 4、5：字体使用蓝色 -->
+    <color name="book_blue">#FF1565C0</color>
+    <!-- 序号圆底、页面背景等辅助色，均为浅色，保证蓝色文字清晰可读 -->
+    <color name="book_blue_light">#FFE3EEFB</color>
+    <color name="page_bg">#FFF5F8FC</color>
+    <color name="card_bg">#FFFFFFFF</color>
+    <color name="divider">#FFD8E4F3</color>
 </resources>
